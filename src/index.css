@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+#root{
+  background-image: url("../Assets/Sky.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.navbar-nav{
+  text-align: right;
+  margin-left: 55%;
+}
+
+.navtext{
+  color: #fff;
+  font-family: 'Abril Fatface', cursive;
+  margin-left: 5%;
+  font-size: 1.75em;
+}
+
+.navtext:hover{
+  color:aliceblue;
+}
+
+.main{
+  margin-top: 8%;
+  padding-bottom: 18%;
+}
+
+.name{
+  font-family: 'Inter', sans-serif;
+  margin-top: 2%;
+  font-size: 3.5em;
+}
+
+.conv{
+  font-family: 'Smooch', cursive;
+  font-size: 2.5em;
+}
+
+.second{
+  margin-top: 4%;
+}
+
+.girl{
+text-align: center;
+}
