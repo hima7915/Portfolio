@@ -1,9 +1,11 @@
-import Girl from "./Girl"; 
+import First from "./First"; 
+import Second from "./Second";
 function Stuff()
 {
     return(
-        <div className="second">
-            <Girl />
+        <div className="zee">
+        <First />
+        <Second />
         </div>
     );
 }

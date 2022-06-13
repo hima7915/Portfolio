@@ -16,6 +16,11 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
+h2,h3{
+  font-family: 'Acme', sans-serif;
+  color: black;
+  text-align: center;
+}
 .navbar-nav{
   text-align: right;
   margin-left: 55%;
@@ -46,12 +51,30 @@ code {
 .conv{
   font-family: 'Smooch', cursive;
   font-size: 2.5em;
+  color:#fff;
+}
+
+.first{
+  margin-top: 4%;
+  text-align: center;
+}
+
+.dog{
+  float: left;
+  margin-top: 8%;
+  margin-left: 15%;
+}
+
+.cat{
+  float:right;
+  margin-top: 2%;
+  margin-right: 15%;
+}
+
+.dogtext{
+  margin-top: 30%;
 }
 
 .second{
-  margin-top: 4%;
-}
-
-.girl{
-text-align: center;
+  padding-bottom: 40%;
 }
